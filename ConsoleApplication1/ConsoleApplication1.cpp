@@ -27,4 +27,5 @@ int  Calculate_legs()
     all_legs = (chickens * 2) + (cows * 4) + (pigs * 4);
     fileInput.close();
     return all_legs;
+
 }
