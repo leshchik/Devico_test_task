@@ -1,0 +1,2 @@
+/html/body/div/div/div[2]/section[1]/div/div/div[1]/a/div
+#__next > div > div.home > section.home-top-section.section--top-offset > div > div > div.home-top-section__left > a > div
